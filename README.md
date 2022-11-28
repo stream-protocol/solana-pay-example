@@ -1,11 +1,12 @@
-# Solana Pay Example
+# StreamPay Example
 
-Stream Payment System Source Code
+Stream Payment System source code, powered by Solana Pay
 
 ## Example
-Look at each directories.
 
 Demo POS: https://stream-pay-pos.vercel.app/new?label=Stream%20Pay%20Shop&recipient=6sXT9zFDFgJMmXPHMiZM8maSx6KFosVbLkC4Ho9GezHz
+
+Look at each directories.
 
 ## Reference
 - [Docs - Solana Pay](https://docs.solanapay.com/)
