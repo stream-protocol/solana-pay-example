@@ -1,5 +1,7 @@
 # Solana Pay Example
 
+Stream Payment System Source Code
+
 ## Example
 Look at each directories.
 
