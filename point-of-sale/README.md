@@ -2,7 +2,7 @@
 
 This is an example of how you can use the `@solana/pay` JavaScript library to create a simple point of sale system.
 
-You can [check out the app](https://app.solanapay.com?recipient=GvHeR432g7MjN9uKyX3Dzg66TqwrEWgANLnnFZXMeyyj&label=Solana+Pay), use the code as a reference, or run it yourself to start accepting decentralized payments in-person.
+You can [check out the app](https://stream-pay-pos.vercel.app/new?label=Stream%20Pay%20Shop&recipient=6sXT9zFDFgJMmXPHMiZM8maSx6KFosVbLkC4Ho9GezHz), use the code as a reference, or run it yourself to start accepting decentralized payments in-person.
 
 ## Original Code
 [http://solana-pay/point-of-sale/](https://github.com/solana-labs/solana-pay/tree/master/point-of-sale)
@@ -45,17 +45,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### With Git
 ```shell
-git clone https://github.com/solana-labs/solana-pay.git
+git clone https://github.com/stream-protocol/solana-pay-example.git
 ```
 
 #### With Github CLI
 ```shell
-gh repo clone solana-labs/solana-pay
+gh repo clone stream-protocol/solana-pay-example
 ```
 
 ### Install dependencies
 ```shell
-cd solana-pay/point-of-sale
+cd point-of-sale
 npm install
 ```
 
@@ -72,7 +72,7 @@ npm run proxy
 ### Open the point of sale app
 ```shell
 open "https://localhost:3001?recipient=Your+Merchant+Address&label=Your+Store+Name"
-e.g. "https://localhost:3001?recipient=HXtBm8XZbxaTt41uqaKhwUAa6Z1aPyvJdsZVENiWsetg&label=MyStore"
+e.g. "https://stream-pay-pos.vercel.app/new?label=Stream%20Pay%20Shop&recipient=6sXT9zFDFgJMmXPHMiZM8maSx6KFosVbLkC4Ho9GezHz"
 ```
 
 You may need to accept a locally signed SSL certificate to open the page.
