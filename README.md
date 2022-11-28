@@ -5,6 +5,8 @@ Stream Payment System Source Code
 ## Example
 Look at each directories.
 
+Demo POS: https://stream-pay-pos.vercel.app/new?label=Stream%20Pay%20Shop&recipient=6sXT9zFDFgJMmXPHMiZM8maSx6KFosVbLkC4Ho9GezHz
+
 ## Reference
 - [Docs - Solana Pay](https://docs.solanapay.com/)
 - [Docs - Taking Payments IRL - Pointer](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23)
