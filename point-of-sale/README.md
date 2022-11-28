@@ -1,4 +1,4 @@
-# Point of Sale
+# Point of Sale (POS)
 
 This is an example of how you can use the `@solana/pay` JavaScript library to create a simple point of sale system.
 
